@@ -15,4 +15,9 @@ class CityRepository {
     fun addCity(city: City) {
         _cities.add(city)
     }
+
+    fun updateCity(city: City, index: Int) {
+        _cities.removeAt(index)
+        _cities.add(index, city)
+    }
 }

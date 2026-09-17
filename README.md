@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://kotlinlang.org/docs/lambdas.html#lambda-expression-syntax
 
 ## Verbal Collaboration
 
